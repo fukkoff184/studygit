@@ -1,1 +1,5 @@
 # studygit
+
+```
+apt install htop
+```
